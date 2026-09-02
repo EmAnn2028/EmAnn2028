@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Emily
 
-<!--
-**EmAnn2028/EmAnn2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a new coder learning basic code. I like to learn new info and explore app building and programing. 
 
-Here are some ideas to get you started:
+### Fun facts about me
+* I am a **costume designer**
+* I am tring to start a **baking business**
+* I love **cats**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  #### Fav roblox games
+  1. Rivals
+  2. Desend
+  3. Adopt Me
+  4. Munder Island
+
+A classic Rocky Horror Quote:
+
+> I see you shiver in antici...................
+>
+> pation
